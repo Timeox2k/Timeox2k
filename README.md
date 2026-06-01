@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I spend most of my time on Discord. Here are my live stats via BoxSRV.net!
-![BoxSRV](https://boxsrv.net/image-card/366230797038125056/)
-
 <!--
 **Timeox2k/Timeox2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
